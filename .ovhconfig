@@ -1,0 +1,6 @@
+app.engine=php
+app.engine.version=7.0
+http.firewall=security
+environment=production
+container.image=legacy
+
