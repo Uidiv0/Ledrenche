@@ -1,0 +1,237 @@
+# Translation of Plugins - Yoast Comment Hacks - Stable (latest release) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - Yoast Comment Hacks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-20 14:03:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - Yoast Comment Hacks - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://yoast.com/"
+msgstr "https://yoast.com/"
+
+#. Author of the plugin/theme
+msgid "Team Yoast"
+msgstr "Equipa de Yoast"
+
+#. Description of the plugin/theme
+msgid "Make comments management easier by applying some of the simple hacks the Yoast team uses."
+msgstr "Faça uma gestão de comentários mais fácil aplicando alguns truques simples que a equipa Yoast usa."
+
+#. Plugin URI of the plugin/theme
+msgid "https://yoast.com/wordpress/plugins/comment-hacks/"
+msgstr "https://yoast.com/wordpress/plugins/comment-hacks/"
+
+#: vendor/yoast/i18n-module/i18n-module.php:218
+msgid "Register now &raquo;"
+msgstr "Registar agora &raquo;"
+
+#: vendor/yoast/i18n-module/i18n-module.php:213
+msgid "Translation of %s"
+msgstr "Tradução de %s"
+
+#: vendor/yoast/i18n-module/i18n-module.php:193
+msgid "You're using WordPress in a language we don't support yet. We'd love for %2$s to be translated in that language too, but unfortunately, it isn't right now. You can change that! Register at %4$s to help translate it!"
+msgstr "Está a usar o WordPress num idioma que ainda não suportamos. Adoraríamos ter o %2$s traduzido neste idioma, mas com muita pena não é ainda possível. Mas pode mudar isso! Registe-se em %4$s para nos ajudar a traduzi-lo!"
+
+#: vendor/yoast/i18n-module/i18n-module.php:191
+msgid "You're using WordPress in %1$s. While %2$s has been translated to %1$s for %3$d%%, it's not been shipped with the plugin yet. You can help! Register at %4$s to help complete the translation to %1$s!"
+msgstr "Está a usar o WordPress em %1$s. Enquanto %2$s não for traduzido para %1$s em %3$d%%, a mesma não será disponibilizada com o plugin. Você pode ajudar! Registe-se em %4$s para completar a tradução para %1$s!"
+
+#: vendor/yoast/i18n-module/i18n-module.php:189
+msgid "As you can see, there is a translation of this plugin in %1$s. This translation is currently %3$d%% complete. We need your help to make it complete and to fix any errors. Please register at %4$s to help complete the translation to %1$s!"
+msgstr "Como pode ver, existe uma tradução deste plugin em %1$s. Esta tradução está atualmente %3$d%% completa. Precisamos da sua ajuda para a completar e corrigir os erros. Por favor registe-se em %4$s para nos ajudar na tradução de %1$s!"
+
+#: inc/class-comment-hacks.php:139
+msgid "Error: Your comment is too short. Please try to say something useful."
+msgstr "Erro: O seu comentário é muito curto. Por favor, tente acrescentar algo útil."
+
+#. translators: %1$s expands to the the post tittle, %2$s to the post
+#. permalink, %3$s expands to a double line break.
+#: inc/class-comment-hacks.php:137
+msgid "Hi,%3$sI'm sending you all this email because you commented on my post \"%1$s\" - %2$s"
+msgstr "Olá,%3$sestou a enviar-lhe este email por ter comentado o meu artigo \"%1$s\" - %2$s"
+
+#. translators: %1$s expands to the commenters first name, %2$s to the post
+#. tittle, %3$s to the post permalink, %4$s expands to a double line break.
+#: inc/class-comment-hacks.php:135
+msgid "Hi %1$s,%4$sI'm emailing you because you commented on my post \"%2$s\" - %3$s"
+msgstr "Olá %1$s,%4$sestou a enviar-lhe este email por ter comentado o meu artigo \"%2$s\" - %3$s"
+
+#. translators: %s expands to the post title
+#: inc/class-comment-hacks.php:133
+msgid "RE: %s"
+msgstr "RE: %s"
+
+#: inc/class-comment-hacks.php:67
+msgid "Go back and try again."
+msgstr "Voltar atrás e tentar de novo."
+
+#: inc/class-comment-email-links.php:126
+msgid "E-mail %s"
+msgstr "Email %s"
+
+#: inc/class-comment-email-links.php:79
+msgid "Email commenters"
+msgstr "Comentadores por email"
+
+#: inc/class-clean-emails.php:191 inc/class-clean-emails.php:204
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/class-clean-emails.php:190 inc/class-clean-emails.php:203
+msgid "Trash"
+msgstr "Lixo"
+
+#: inc/class-clean-emails.php:189 inc/class-clean-emails.php:202
+msgid "Spam"
+msgstr "Spam"
+
+#: inc/class-clean-emails.php:188
+msgid "Approve"
+msgstr "Aprovar"
+
+#: inc/class-clean-emails.php:179
+msgid "Please visit the %1$smoderation panel%2$s."
+msgstr "Por favor, visite o %1$spainel de moderação%2$s."
+
+#: inc/class-clean-emails.php:177
+msgid "Currently this and %s other comments are waiting for approval."
+msgstr "Neste momento, este e %s outros comentários aguardam aprovação."
+
+#: inc/class-clean-emails.php:140
+msgid "URL: %s"
+msgstr "URL: %s"
+
+#: inc/class-clean-emails.php:131
+msgid "Excerpt:"
+msgstr "Excerto:"
+
+#: inc/class-clean-emails.php:128
+msgid "Comment:"
+msgstr "Comentário:"
+
+#: inc/class-clean-emails.php:119
+msgid "Website: %1$s"
+msgstr "Website: %1$s"
+
+#: inc/class-clean-emails.php:116
+msgid "Author: %1$s (%2$s)"
+msgstr "Autor: %1$s (%2$s)"
+
+#: inc/class-clean-emails.php:93
+msgid "Whois"
+msgstr "Whois"
+
+#: inc/class-clean-emails.php:89
+msgid "A new %1$s on the post \"%2$s\" is waiting for your approval:"
+msgstr "Um novo %1$s no artigo \"%2$s\" aguarda a sua aprovação:"
+
+#: inc/class-clean-emails.php:68
+msgid "New comment on \"%s\""
+msgstr "Novo comentário em \"%s\""
+
+#: admin/views/config-page.php:133
+msgid "Clean comment emails"
+msgstr "Limpar emails de comentários"
+
+#: admin/views/config-page.php:128
+msgid "Checking this option will make your default comment notification and moderation emails a lot cleaner."
+msgstr "Marcar esta opção fará com que fique com uma notificação de comentários por omissão mais limpa, tal como os emails de moderação."
+
+#: admin/views/config-page.php:126
+msgid "Clean Emails"
+msgstr "Limpar emails"
+
+#: admin/views/config-page.php:118
+msgid "Current redirect page"
+msgstr "Página de redirecionamento actual"
+
+#: admin/views/config-page.php:114
+msgid "Don't redirect first time commenters"
+msgstr "Não redirecionar quem comenta pela primeira vez"
+
+#: admin/views/config-page.php:103
+msgid "Redirect to"
+msgstr "Redirecionar para"
+
+#: admin/views/config-page.php:99
+msgid "Select the page below that a first time commenter should be redirected to"
+msgstr "Seleccione a página para onde um comentador estreante deve ser redirecionado"
+
+#: admin/views/config-page.php:97
+msgid "Redirect first time commenters"
+msgstr "Redirecionar quem comenta pela primeira vez"
+
+#: admin/views/config-page.php:86
+msgid "E-mail all commenters body"
+msgstr "Corpo de Email para todos os comentadores "
+
+#: admin/views/config-page.php:76
+msgid "E-mail body"
+msgstr "Corpo do email"
+
+#: admin/views/config-page.php:66
+msgid "E-mail subject"
+msgstr "Assunto do email"
+
+#. translators: %s expands to an email button icon
+#: admin/views/config-page.php:61
+msgid "This plugin adds an \"E-mail\" action link on the comments overview page as well as an email all commenters button (%s) on individual post pages in the admin bar. You can customize the default messages here."
+msgstr "Este plugin adiciona uma uma ligação de  \"Email\" na página de comentários bem como um botão para enviar um email a todos os comentadores (%s) em artigos individuais, na barra de administração. Pode personalizar aqui a mensagem por omissão."
+
+#: admin/views/config-page.php:45
+msgid "Error message"
+msgstr "Mensagem de erro"
+
+#: admin/views/config-page.php:32
+msgid "Minimum length"
+msgstr "Comprimento mínimo"
+
+#: admin/views/config-page.php:27
+msgid "Users that try to submit a comment smaller than the length you set below will get an error immediately. The text of that error is specified below too."
+msgstr "Os utilizadores que tentarem submeter um comentários mais pequeno que o tamanho que pré-determinar abaixo vão receber uma indicação de erro de forma imediata. O texto da mensagem de erro também deve ser definido abaixo."
+
+#: admin/views/config-page.php:18
+msgid "Clean emails"
+msgstr "Limpar emails"
+
+#: admin/views/config-page.php:16
+msgid "Comment redirect"
+msgstr "Redirecionamento de comentários"
+
+#: admin/views/config-page.php:14 admin/views/config-page.php:57
+msgid "Email links"
+msgstr "Ligações do email"
+
+#: admin/views/config-page.php:12 admin/views/config-page.php:25
+msgid "Minimum comment length"
+msgstr "Comprimento mínimo do comentário"
+
+#: admin/views/comment-parent-box.php:10
+msgid "Comment parent:"
+msgstr "Comentário pai:"
+
+#: admin/class-admin.php:230
+msgid "Settings"
+msgstr "Definições"
+
+#: admin/class-admin.php:208
+msgid "Comment Hacks"
+msgstr "Comment Hacks"
+
+#. #-#-#-#-#  tmp-yoast-comment-hacks.pot (Yoast Comment Hacks 1.1.1) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-admin.php:208 admin/views/config-page.php:8
+msgid "Yoast Comment Hacks"
+msgstr "Yoast Comment Hacks"
+
+#: admin/class-admin.php:197
+msgid "The minimum length you entered is invalid, please enter a minimum length above %d."
+msgstr "O tamanho mínimo que inseriu é inválido, por favor insira um tamanho mínimo que seja maior que %d."

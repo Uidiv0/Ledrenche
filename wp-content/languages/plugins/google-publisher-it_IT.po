@@ -1,0 +1,64 @@
+# Translation of Plugins - Google AdSense - Development (trunk) in Italian
+# This file is distributed under the same license as the Plugins - Google AdSense - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-05 20:50:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Google AdSense - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://support.google.com/adsense/answer/3380626"
+msgstr "https://support.google.com/adsense/answer/3380626"
+
+#. Author of the plugin/theme
+msgid "Google"
+msgstr "Google"
+
+#. Description of the plugin/theme
+msgid "Use Google AdSense and other Google tools with your WordPress site."
+msgstr "Utilizza Google AdSense e altri strumenti di Google con il tuo sito WordPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/google-publisher"
+msgstr "http://wordpress.org/plugins/google-publisher"
+
+#. Plugin Name of the plugin/theme
+msgid "Google AdSense"
+msgstr "Google AdSense"
+
+#: Utils.php:280
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi necessari per potere accedere a questa pagina."
+
+#: AdminTemplate.php:43
+msgid "If you don't have a Google account, you can <a href=\"https://accounts.google.com/SignUp\" target=\"_blank\">create one now</a>."
+msgstr "Se non disponi di un account Google, puoi <a href=\"https://accounts.google.com/SignUp\" target=\"_blank\">crearne uno ora</a>."
+
+#: AdminTemplate.php:38
+msgid "Get started"
+msgstr "Inizia"
+
+#: AdminTemplate.php:33
+msgid "You should use the Google account that you use for Google products that relate to this site. For example, if you have an AdSense account or a Google Analytics account that you use with this site, use the associated Google account."
+msgstr "Devi scegliere l'account Google che utilizzi per i prodotti Google correlati a questo sito. Se utilizzi un account AdSense o Google Analytics con questo sito, usa l'account Google associato."
+
+#: AdminTemplate.php:31
+msgid "To use the AdSense Plugin, you need to sign in to your Google account."
+msgstr "Per utilizzare il Plug-in AdSense, devi accedere al tuo account Google."
+
+#: Admin.php:166
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: Admin.php:110
+msgid "Disable ads on this page"
+msgstr "Disattiva gli annunci in questa pagina"
+
+#: Admin.php:92 AdminTemplate.php:28
+msgid "AdSense Plugin"
+msgstr "Plug-in AdSense"

@@ -1,0 +1,622 @@
+# Translation of Smartline Lite in German
+# This file is distributed under the same license as the Smartline Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-17 11:56:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Smartline Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Smartline Lite"
+msgstr "Smartline Lite"
+
+#. Description of the plugin/theme
+msgid "Smartline Lite is a perfect theme for news and magazine websites as well as simple blogs. The responsive design with bold colors and smart lines looks great on any device. The main highlight of Smartline is the flexible and widgetized front page template which allows you to create a magazine-styled homepage with ease."
+msgstr "Smartline Lite ist ein perfektes Theme für eine News Website oder Online Magazin, als auch für einfache Blogs. Das responsive Design mit seinen kräftigen Farben und klaren Konturen sieht auf allen Geräten großartig aus. Das Highlight von Smartline ist das flexible und widget-basierte Homepage Template, welches das Erstellen der Startseite im Magazin-Look sehr einfach macht."
+
+#: inc/customizer/customizer.php:159 inc/theme-info.php:50
+#: inc/theme-info.php:152
+msgid "https://wordpress.org/support/theme/smartline-lite/reviews/?filter=5"
+msgstr "https://wordpress.org/support/theme/smartline-lite/reviews/?filter=5"
+
+#: inc/customizer/functions/custom-controls.php:42 inc/theme-info.php:110
+msgid "Pro Version Add-on"
+msgstr "Pro Version Add-on"
+
+#: inc/customizer/functions/custom-controls.php:58 inc/theme-info.php:127
+msgid "Recommended Plugins"
+msgstr "Empfohlene Plugins"
+
+#: inc/customizer/functions/custom-controls.php:66 inc/theme-info.php:134
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: inc/theme-info.php:103
+msgid "Get more features"
+msgstr "Mehr Features"
+
+#: inc/theme-info.php:152
+msgid "Review Smartline"
+msgstr "Smartline bewerten"
+
+#: functions.php:180
+msgid "Appears on posts and pages except the full width template."
+msgstr "Erscheint auf Beiträgen und Seiten mit Ausnahme des Fullwidth Templates."
+
+#: inc/customizer/customizer.php:50
+msgid "Display Site Title"
+msgstr "Zeige Titel der Seite"
+
+#: inc/customizer/sections/customizer-slider.php:135
+msgid "Slider Speed (in ms)"
+msgstr "Slider Geschwindigkeit (in ms)"
+
+#: inc/theme-info.php:151
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/de/"
+
+#: inc/customizer/customizer.php:153 inc/theme-info.php:49
+#: inc/theme-info.php:70
+msgid "https://themezee.com/docs/smartline-documentation/"
+msgstr "https://themezee.com/de/docs/smartline-dokumentation/"
+
+#: inc/customizer/functions/custom-controls.php:49 inc/theme-info.php:116
+msgid "https://themezee.com/addons/smartline-pro/"
+msgstr "https://themezee.com/de/addons/smartline-pro/"
+
+#: inc/customizer/sections/customizer-post.php:229
+msgid "Post Footer"
+msgstr "Beitrags-Footer"
+
+#: inc/customizer/sections/customizer-post.php:244
+msgid "Display post navigation on single posts"
+msgstr "Zeige Beitrags-Navigation"
+
+#: inc/customizer/customizer.php:84
+msgid "Header Image Link"
+msgstr "Header-Bild Link"
+
+#: inc/customizer/customizer.php:101
+msgid "Hide header image on front page"
+msgstr "Header-Bild auf der Startseite verbergen"
+
+#: inc/customizer/customizer.php:138 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "Theme Links"
+
+#: inc/customizer/functions/custom-controls.php:61 inc/theme-info.php:130
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "Erweitere die Funktionalität deiner WordPress Webseite mit unseren kostenlosen Plugins."
+
+#: inc/customizer/sections/customizer-upgrade.php:14
+msgid "More Features"
+msgstr "Mehr Features"
+
+#: inc/widgets/widget-category-posts-boxed.php:292
+#: inc/widgets/widget-category-posts-columns.php:341
+#: inc/widgets/widget-category-posts-grid.php:333
+#: inc/widgets/widget-category-posts-single.php:268
+msgid "Post Meta:"
+msgstr "Beitrags-Metadaten:"
+
+#: inc/widgets/widget-category-posts-boxed.php:294
+#: inc/widgets/widget-category-posts-columns.php:343
+#: inc/widgets/widget-category-posts-grid.php:335
+#: inc/widgets/widget-category-posts-single.php:270
+msgid "Hide post meta"
+msgstr "Beitrags-Metadaten verbergen"
+
+#: inc/widgets/widget-category-posts-boxed.php:296
+#: inc/widgets/widget-category-posts-columns.php:345
+#: inc/widgets/widget-category-posts-grid.php:337
+#: inc/widgets/widget-category-posts-single.php:272
+msgid "Display date and author"
+msgstr "Zeige Datum und Autor"
+
+#: inc/widgets/widget-category-posts-boxed.php:297
+#: inc/widgets/widget-category-posts-columns.php:346
+#: inc/widgets/widget-category-posts-grid.php:338
+#: inc/widgets/widget-category-posts-single.php:273
+msgid "Display date and comments"
+msgstr "Zeige Datum und Kommentare"
+
+#: inc/widgets/widget-category-posts-single.php:274
+msgid "Display date, author and comments"
+msgstr "Zeige Datum, Autor und Kommentare"
+
+#: inc/customizer/customizer.php:39
+msgid "Background"
+msgstr "Hintergrund"
+
+#: inc/widgets/widget-category-posts-columns.php:14
+msgid "Category Posts: 2 Columns (%s)"
+msgstr "Kategorie Beiträge: 2 Spalten (%s)"
+
+#: inc/widgets/widget-category-posts-grid.php:11
+msgid "Displays your posts from a selected category in a grid layout. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Zeigt die Beiträge einer gewählten Kategorie in einem Raster Layout. Bitte verwende dieses Widget NUR in dem Magazin Startseite Widgetbereich."
+
+#: inc/widgets/widget-category-posts-grid.php:14
+msgid "Category Posts: Grid (%s)"
+msgstr "Kategorie Beiträge: Raster (%s)"
+
+#: inc/widgets/widget-category-posts-single.php:14
+msgid "Category Posts: Single (%s)"
+msgstr "Kategorie Beiträge: Single (%s)"
+
+#: search.php:39
+msgid "No matches"
+msgstr "Keine Treffer"
+
+#: sidebar.php:16
+msgid "Please go to Appearance &#8594; Widgets and add some widgets to your sidebar."
+msgstr "Bitte gehe zu Design &#8594; Widgets, um Widgets in der Sidebar hinzuzufügen."
+
+#: template-frontpage.php:41
+msgid "Please go to Appearance &#8594; Widgets and add at least one widget to the \"Magazine Homepage\" widget area. You can use the Category Posts widgets to set up the theme like the demo website."
+msgstr "Bitte gehe zu Design &#8594; Widgets und füge mindestens ein Widget dem \"Magazin Startseite\" Widget Bereich hinzu. Du kannst die Kategorie Beiträge Widgets verwenden, um das Theme wie die Demo Webseite einzurichten."
+
+#: inc/customizer/functions/custom-controls.php:50 inc/theme-info.php:117
+msgid "Learn more about %s Pro"
+msgstr "Erfahre mehr über %s Pro"
+
+#: inc/customizer/customizer.php:142 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "Theme Seite"
+
+#: inc/theme-info.php:71
+msgid "View %s Documentation"
+msgstr "%s Dokumentation ansehen"
+
+#: inc/theme-info.php:80
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s verwendet den Anpassen-Dialog (Customizer) für alle Theme Einstellungen. Klicke auf \"Theme anpassen\", um den Customizer zu öffnen."
+
+#: inc/widgets/widget-category-posts-boxed.php:11
+msgid "Displays your posts from a selected category in a boxed layout. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Zeigt die Beiträge einer gewählten Kategorie in einem Box Layout. Bitte verwende dieses Widget NUR in dem Magazin Startseite Widgetbereich."
+
+#: inc/widgets/widget-category-posts-boxed.php:14
+msgid "Category Posts: Boxed (%s)"
+msgstr "Kategorie Beiträge: Box (%s)"
+
+#: inc/widgets/widget-category-posts-columns.php:11
+msgid "Displays your posts from two selected categories. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Zeigt die Beiträge von zwei gewählten Kategorien in zwei Spalten. Bitte verwende dieses Widget NUR in dem Magazin Startseite Widgetbereich."
+
+#: inc/customizer/functions/custom-controls.php:45 inc/theme-info.php:113
+msgid "Purchase the %s Pro Add-on and get additional features and advanced customization options."
+msgstr "Kaufe das %s Pro Add-on und erhalte zusätzliche Features und erweiterte Theme Optionen."
+
+#: inc/customizer/sections/customizer-slider.php:121
+msgid "Fade Effect"
+msgstr "Fade Effekt"
+
+#: inc/customizer/sections/customizer-slider.php:120
+msgid "Slide Effect"
+msgstr "Slide Effekt"
+
+#: inc/customizer/sections/customizer-slider.php:60
+msgid "Show Slider on posts page"
+msgstr "Zeige Slider im Blog Index"
+
+#: inc/customizer/sections/customizer-slider.php:30
+msgid "Activate Post Slider"
+msgstr "Beitrags-Slider aktivieren"
+
+#: inc/customizer/sections/customizer-slider.php:45
+msgid "Show Slider on Magazine Homepage"
+msgstr "Zeige Slider auf Magazin Startseite"
+
+#: inc/customizer/sections/customizer-post.php:211
+msgid "Display post tags"
+msgstr "Zeige Schlagwörter des Beitrags"
+
+#: inc/customizer/sections/customizer-post.php:196
+msgid "Display post categories"
+msgstr "Zeige Kategorien des Beitrags"
+
+#: inc/customizer/sections/customizer-post.php:151
+msgid "Post Meta"
+msgstr "Beitrags-Metadaten"
+
+#: inc/customizer/sections/customizer-post.php:166
+#: inc/widgets/widget-category-posts-boxed.php:295
+#: inc/widgets/widget-category-posts-columns.php:344
+#: inc/widgets/widget-category-posts-grid.php:336
+#: inc/widgets/widget-category-posts-single.php:271
+msgid "Display post date"
+msgstr "Zeige Datum des Beitrags"
+
+#: inc/customizer/sections/customizer-post.php:181
+msgid "Display post author"
+msgstr "Zeige Autor des Beitrags"
+
+#: inc/customizer/sections/customizer-post.php:36
+msgid "Show post excerpts"
+msgstr "Zeige Beitragsauszüge"
+
+#: inc/customizer/sections/customizer-post.php:69
+msgid "Text after Excerpts"
+msgstr "Text nach Beitragsauszug"
+
+#: inc/customizer/sections/customizer-header.php:14
+msgid "Header Settings"
+msgstr "Header Einstellungen"
+
+#: 404.php:11
+msgid "404: Page not found"
+msgstr "404: Seite nicht gefunden"
+
+#. #-#-#-#-#  smartline-lite.pot (Smartline Lite 1.4.2)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: functions.php:189
+msgid "Magazine Homepage"
+msgstr "Magazin Startseite"
+
+#: featured-content-slider.php:14
+msgid "There is no featured content to be displayed in the slider. To set up the slider, go to Appearance &#8594; Customize &#8594; Theme Options, and add a featured tag in the Post Slider section. The slideshow displays all your posts which are tagged with that keyword."
+msgstr "Es gibt keine hervorgehobene Beiträge, die im Slider angezeigt werden können. Um den Slider einzurichten, gehe zu Design &#8594; Anpassen &#8594; Theme Optionen, und füge ein Schlagwort in der Sektion Beitrags-Slider hinzu. Die Slideshow zeigt alle Beiträge, die mit diesem Schlagwort getaggt sind."
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "Unter dieser Adresse wurde nichts gefunden. Möglicherweise hilft eine Suche oder einer der Links unterhalb?"
+
+#: inc/customizer/sections/customizer-post.php:50
+msgid "Excerpt Length"
+msgstr "Länge des Beitragsauszugs"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth"
+msgstr "Volle Breite (Fullwidth)"
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suchen &hellip;"
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: search.php:43
+msgid "Please try again, or use the navigation menus to find what you search for."
+msgstr "Bitte versuche es erneut oder verwende die Navigationsmenüs, um dein Ziel zu finden."
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: inc/widgets/widget-category-posts-grid.php:314
+msgid "Please chose an even number (2, 4, 6, 8)."
+msgstr "Bitte wähle eine gerade Anzahl (2, 4, 6, 8)."
+
+#: inc/widgets/widget-category-posts-grid.php:321
+msgid "Display as small posts grid with thumbnails"
+msgstr "Zeige Beiträge in kleinem Raster mit Thumbnails"
+
+#: inc/widgets/widget-category-posts-single.php:11
+msgid "Displays a single post from a selected category. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr "Zeigt einen einzelnen Beitrag einer gewählten Kategorie. Bitte verwende dieses Widget NUR in dem Magazin Startseite Widgetbereich."
+
+#: inc/widgets/widget-category-posts-columns.php:321
+#: inc/widgets/widget-category-posts-grid.php:312
+#: inc/widgets/widget-category-posts-single.php:255
+msgid "Number of posts:"
+msgstr "Anzahl der Beiträge:"
+
+#: inc/widgets/widget-category-posts-columns.php:329
+msgid "Highlight first post (big image + excerpt)"
+msgstr "Ersten Beitrag hervorheben (großes Bild + Textauszug)"
+
+#: inc/widgets/widget-category-posts-columns.php:336
+msgid "Display Category Titles"
+msgstr "Zeige Kategorien als Titel"
+
+#: inc/widgets/widget-category-posts-columns.php:291
+msgid "Left Category:"
+msgstr "Linke Kategorie:"
+
+#: inc/widgets/widget-category-posts-columns.php:306
+msgid "Right Category:"
+msgstr "Rechte Kategorie:"
+
+#: inc/widgets/widget-category-posts-columns.php:234
+msgid "Latest Posts"
+msgstr "Letzte Beiträge"
+
+#: inc/widgets/widget-category-posts-boxed.php:287
+#: inc/widgets/widget-category-posts-grid.php:328
+#: inc/widgets/widget-category-posts-single.php:263
+msgid "Link Widget Title to Category Archive page"
+msgstr "Verlinke den Widget Titel zur Kategorie Archiv Seite"
+
+#: inc/widgets/widget-category-posts-boxed.php:273
+#: inc/widgets/widget-category-posts-columns.php:294
+#: inc/widgets/widget-category-posts-columns.php:309
+#: inc/widgets/widget-category-posts-grid.php:300
+#: inc/widgets/widget-category-posts-single.php:243
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+#: inc/widgets/widget-category-posts-boxed.php:270
+#: inc/widgets/widget-category-posts-grid.php:297
+#: inc/widgets/widget-category-posts-single.php:240
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: inc/widgets/widget-category-posts-boxed.php:223
+#: inc/widgets/widget-category-posts-columns.php:247
+#: inc/widgets/widget-category-posts-grid.php:248
+#: inc/widgets/widget-category-posts-single.php:192
+msgid "View all posts from category %s"
+msgstr "Alle Beiträge in der Kategorie %s ansehen"
+
+#: inc/widgets/widget-category-posts-boxed.php:264
+#: inc/widgets/widget-category-posts-columns.php:285
+#: inc/widgets/widget-category-posts-grid.php:291
+#: inc/widgets/widget-category-posts-single.php:234
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/theme-info.php:152
+msgid "rate it"
+msgstr "bewerte es"
+
+#: inc/widgets/widget-category-posts-boxed.php:211
+#: inc/widgets/widget-category-posts-columns.php:233
+#: inc/widgets/widget-category-posts-grid.php:236
+#: inc/widgets/widget-category-posts-single.php:180
+msgid "View all posts"
+msgstr "Alle Beiträge ansehen"
+
+#: inc/theme-info.php:57
+msgid "Getting Started with %s"
+msgstr "Erste Schritte mit %s"
+
+#: inc/theme-info.php:67
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr "Du brauchst Hilfe bei der Einrichtung und Konfiguration dieses Themes? Wir haben eine ausführliche Dokumentation auf unserer Webseite."
+
+#: inc/theme-info.php:83
+msgid "Customize Theme"
+msgstr "Theme anpassen"
+
+#: inc/theme-info.php:149
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s wird stolz präsentiert von %2$s. Falls dir dieses Theme gefällt, %3$s :)"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "Willkommen bei %1$s %2$s"
+
+#: inc/customizer/customizer.php:148 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "Theme Demo"
+
+#: inc/customizer/customizer.php:154 inc/theme-info.php:49
+#: inc/theme-info.php:64
+msgid "Theme Documentation"
+msgstr "Theme Dokumentation"
+
+#: inc/customizer/customizer.php:160 inc/theme-info.php:50
+msgid "Rate this theme"
+msgstr "Theme bewerten"
+
+#: inc/template-tags.php:368
+msgid "Please go to Appearance &#8594; Menus and create a new custom menu with custom links to all your social networks. Then click on \"Manage Locations\" tab and assign your created menu to the \"Social Icons\" location."
+msgstr "Bitte gehe zu Design &#8594;  Menüs und erstelle ein neues Menü mit Links zu all deinen sozialen Netzwerken. Klicke danach auf den Tab 'Positionen verwalten' und weise deinem erstelltes Menü die \"Social Icons\" Position zu."
+
+#: inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "Theme Info"
+
+#: inc/template-tags.php:334
+msgid "Powered by %1$s and %2$s."
+msgstr "Erstellt mit %1$s und %2$s."
+
+#: inc/template-tags.php:180 inc/template-tags.php:233
+msgid "Leave a comment"
+msgstr "Kommentar hinterlassen"
+
+#: inc/template-tags.php:132
+msgid "Edit Post"
+msgstr "Beitrag bearbeiten"
+
+#: inc/featured-content.php:374
+msgid "Hide tag from displaying in post meta and tag clouds."
+msgstr "Verberge das Schlagwort in den Beitrags-Metadaten und der Schlagwort-Wolke."
+
+#: inc/featured-content.php:381
+msgid "Display featured posts in latest blog post listing."
+msgstr "Zeige hervorgehobene Beiträge im Blog Index."
+
+#: inc/featured-content.php:388
+msgid "Number of Posts"
+msgstr "Anzahl der Beiträge"
+
+#: inc/template-tags.php:156
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s ansehen"
+
+#: inc/featured-content.php:368
+msgid "Tag name"
+msgstr "Schlagwort"
+
+#: inc/customizer/sections/customizer-slider.php:78
+msgid "Select Featured Posts"
+msgstr "Hervorgehobene Beiträge wählen"
+
+#: inc/customizer/sections/customizer-slider.php:95
+msgid "The slideshow displays all your featured posts. You can easily feature posts by a tag of your choice."
+msgstr "Die Slideshow zeigt alle hervorgehobenen Beiträge. Du kannst deine Beiträge ganz leicht mit einem Schlagwort deiner Wahl hervorheben."
+
+#: inc/customizer/sections/customizer-slider.php:113
+msgid "Slider Animation"
+msgstr "Slider Animation"
+
+#: inc/customizer/sections/customizer-post.php:84
+msgid "Display [...] after excerpts"
+msgstr "Zeige [...] nach Beitragsauszügen"
+
+#. #-#-#-#-#  smartline-lite.pot (Smartline Lite 1.4.2)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer/sections/customizer-slider.php:14
+msgid "Post Slider"
+msgstr "Beitrags-Slider"
+
+#: inc/customizer/sections/customizer-post.php:102
+msgid "Post Images"
+msgstr "Beitragsbilder"
+
+#: inc/customizer/sections/customizer-post.php:117
+msgid "Display featured images on archive pages"
+msgstr "Zeige Beitragsbilder in Archiven"
+
+#: inc/customizer/sections/customizer-post.php:133
+msgid "Display featured images on single posts"
+msgstr "Zeige Beitragsbilder in einzelnen Beiträgen"
+
+#: inc/customizer/sections/customizer-post.php:29
+msgid "Post length on archives"
+msgstr "Beitragslänge in Archivseiten"
+
+#: inc/customizer/sections/customizer-post.php:35
+msgid "Show full posts"
+msgstr "Zeige Beiträge vollständig"
+
+#: inc/customizer/sections/customizer-general.php:68
+msgid "Deactivate Google Fonts in case your language is not compatible."
+msgstr "Deaktiviere die Google Schriftarten, falls sie mit deiner Sprache nicht kompatibel sind."
+
+#: inc/customizer/sections/customizer-header.php:30
+msgid "Header Content"
+msgstr "Header Inhalt"
+
+#: inc/customizer/sections/customizer-header.php:46
+msgid "The Header Content will be displayed on the right hand side of the header area."
+msgstr "Die Header Inhalte werden auf der rechten Seite im Header angezeigt."
+
+#: inc/customizer/sections/customizer-header.php:63
+msgid "Display search field on header area"
+msgstr "Suchfeld im Header Bereich anzeigen"
+
+#: inc/customizer/sections/customizer-header.php:79
+msgid "Display Social Icons on header area"
+msgstr "Zeige Social Icons im Header"
+
+#: inc/customizer/sections/customizer-post.php:14
+msgid "Post Settings"
+msgstr "Beitrags-Einstellungen"
+
+#: inc/customizer/sections/customizer-general.php:51
+msgid "Default Fonts"
+msgstr "Standard Schriftarten"
+
+#: inc/customizer/sections/customizer-general.php:36
+msgid "Right Sidebar"
+msgstr "Sidebar rechts"
+
+#: inc/customizer/sections/customizer-general.php:29
+msgid "Theme Layout"
+msgstr "Theme Layout"
+
+#: inc/customizer/sections/customizer-general.php:35
+msgid "Left Sidebar"
+msgstr "Sidebar links"
+
+#: inc/customizer/customizer.php:67
+msgid "Display Tagline beside site title."
+msgstr "Zeige Untertitel neben dem Seitentitel."
+
+#: inc/customizer/sections/customizer-general.php:14
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: inc/customizer/customizer.php:29 inc/theme-info.php:77
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: inc/template-tags.php:405
+msgid "%1$s at %2$s"
+msgstr "%1$s am %2$s"
+
+#: inc/template-tags.php:401
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: inc/template-tags.php:386 inc/template-tags.php:406
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: functions.php:191
+msgid "Appears on Magazine Homepage template only. You can use the Category Posts widgets here."
+msgstr "Erscheint nur auf dem Magazin Startseite Template. Du kannst hier die Kategorie Beiträge Widgets verwenden."
+
+#: inc/template-tags.php:385
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:138
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: functions.php:178 sidebar.php:14
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:135
+msgid "Footer Navigation"
+msgstr "Footer Navigation"
+
+#: functions.php:134
+msgid "Top Navigation"
+msgstr "Obere Navigation"
+
+#: functions.php:133
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+#: featured-content-slider.php:48
+msgid "Read more &raquo;"
+msgstr "Weiterlesen &raquo;"
+
+#: footer.php:18 functions.php:45
+msgid "Menu"
+msgstr "Menü"
+
+#: content-excerpt.php:11 content-search.php:8 content.php:10
+#: inc/widgets/widget-category-posts-single.php:124
+msgid "&raquo; Read more"
+msgstr "&raquo; Weiterlesen"
+
+#: comments.php:20 inc/template-tags.php:180 inc/template-tags.php:233
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: comments.php:20 inc/template-tags.php:180 inc/template-tags.php:233
+msgid "One comment"
+msgstr "Ein Kommentar"
+
+#: comments.php:10
+msgid "Enter password to view comments."
+msgstr "Passwort eingeben, um Kommentare zu sehen."
+
+#. #-#-#-#-#  smartline-lite.pot (Smartline Lite 1.4.2)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#: inc/customizer/customizer.php:141 inc/theme-info.php:47
+msgid "https://themezee.com/themes/smartline/"
+msgstr "https://themezee.com/de/themes/smartline/"
+
+#. Author of the plugin/theme
+msgid "ThemeZee"
+msgstr "ThemeZee"
+
+#. Author URI of the plugin/theme
+msgid "https://themezee.com"
+msgstr "https://themezee.com/de/"

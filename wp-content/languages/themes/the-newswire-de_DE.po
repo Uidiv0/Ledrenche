@@ -1,0 +1,564 @@
+# Translation of Themes - The Newswire in German
+# This file is distributed under the same license as the Themes - The Newswire package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-03 14:57:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - The Newswire\n"
+
+#. Description of the plugin/theme
+msgid "The Newswire theme is design for local news sites and blogs. Taking a lead from popular news sites like the HuffPo it has a huge home page slider showing the latest posts (or sticky posts if you prefer). The customize options also let you upload your own logo, change fonts, colors and background without any custom coding. The theme has two customizable menus and you can even add banner code to the header and sidebar from the customize menu. Of course it is fully responsive so works great on mobiles, tablets and desktops."
+msgstr "Das Theme Newswire wurde erstellt für Nachrichtenseiten und Blogs. In Anlehnung an große Nachrichtenportale bietet es einen großen Slider auf der Startseite, der die neuesten Beiträge anzeigt (oder oben gehaltene Beiträge, wenn dir das lieber ist). Die Optionen erlauben es dir, dein eigenes Logo hochzuladen sowie Schriften, Farben und Hintergründe zu ändern ohne eigenen Code schreiben zu müssen. Das Theme hat zwei anpassbare Menus und du kannst sogar Banner-Code in Kopf und Seitenleiste einbauen. Es ist natürlich vollständig responsive und funktioniert hervorragend auf Mobiltelefonen, Tablets und Desktoprechnern."
+
+#. Theme Name of the plugin/theme
+msgid "The Newswire"
+msgstr "The Newswire"
+
+#. Template Name of the plugin/theme
+msgid "Home without Slider"
+msgstr "Startseite ohne Slider"
+
+#. Template Name of the plugin/theme
+msgid "Full-width, no sidebar"
+msgstr "Volle Breite, keine Seitenleiste"
+
+#: tag.php:11
+msgid "Tag: %s"
+msgstr "Schlagwort: %s"
+
+#: search.php:45
+msgid "Or you can try these links below."
+msgstr "Oder du kannst die folgenden Links probieren."
+
+#: search.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, aber zu deinen Suchbegriffen wurde nichts passendes gefunden. Bitte versuche es mit anderen Stichworten noch einmal."
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: index.php:94
+msgid "Latest News"
+msgstr "Neuigkeiten"
+
+#: index.php:60
+msgid "Continue Reading &rarr;"
+msgstr "Weiterlesen &rarr;"
+
+#: image.php:90
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Sowohl Kommentare als auch Trackbacks sind geschlossen."
+
+#: image.php:88
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Trackbacks sind geschlossen, aber du kannst <a class=\"comment-link\" href=\"#respond\" title=\"Kommentar schreiben\">einen Kommentar schreiben</a>."
+
+#: image.php:86
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Kommentare sind geschlossen, aber du kannst ein Trackback hinterlassen: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback-URL für deinen Beitrag\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:84
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Kommentar schreiben\">Schreibe einen Kommentar</a> oder ein Trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback-URL für deinen Beitrag\" rel=\"trackback\">Trackback-URL</a>."
+
+#: image.php:32
+msgid "Next &rarr;"
+msgstr "Weiter &rarr;"
+
+#: image.php:31
+msgid "&larr; Previous"
+msgstr "&larr; Zurück"
+
+#: image.php:14
+msgid "Published <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Veröffentlicht <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> um <a href=\"%3$s\" title=\"Link auf Bild in voller Größe\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Zurück zu %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: home-no-slider.php:54 sidebar-home.php:25 sidebar-posts.php:25
+#: sidebar.php:25
+msgid "Latest Posts"
+msgstr "Aktuelle Beiträge"
+
+#: home-no-slider.php:44 sidebar-home.php:15 sidebar-posts.php:15
+#: sidebar.php:15
+msgid "Categories"
+msgstr "Kategorien"
+
+#: header.php:121
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: header.php:120
+msgid "Main menu"
+msgstr "Hauptmenü"
+
+#: header.php:92
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: header.php:92
+msgid "mailto:"
+msgstr "mailto:"
+
+#: header.php:88
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:84
+msgid "Yelp"
+msgstr "Yelp"
+
+#: header.php:80
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: header.php:72 header.php:76
+msgid "Instagram"
+msgstr "Instagram"
+
+#: header.php:68
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: header.php:64
+msgid "Youtube"
+msgstr "YouTube"
+
+#: header.php:60
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: header.php:56
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: header.php:52
+msgid "Google+"
+msgstr "Google+"
+
+#: header.php:48
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:44
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:19
+msgid "x"
+msgstr "x"
+
+#: functions.php:834 home-no-slider.php:62 sidebar-home.php:33
+#: sidebar-posts.php:33 sidebar.php:33
+msgid "Untitled"
+msgstr "Ohne Titel"
+
+#: functions.php:819
+msgid "Next &rsaquo;"
+msgstr "Weiter &rsaquo;"
+
+#: functions.php:818
+msgid "&lsaquo; Prev"
+msgstr "&lsaquo; Zurück"
+
+#: functions.php:729
+msgid "View all posts by %s"
+msgstr "Alle Artikel von %s anzeigen"
+
+#: functions.php:723
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"sep\">Veröffentlicht am </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> <span class=\"sep\"> von </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#. translators: 1: date, 2: time
+#: functions.php:698
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: functions.php:690
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: functions.php:677 functions.php:700
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: functions.php:677
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:655
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Artikel <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:651
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Artikel"
+
+#: functions.php:646
+msgctxt "Next post link"
+msgid "Next &rarr;"
+msgstr "Nächster Beitrag &rarr;"
+
+#: functions.php:645
+msgctxt "Previous post link"
+msgid "&larr; Previous"
+msgstr "&larr; Vorheriger Beitrag"
+
+#: functions.php:641
+msgid "Post navigation"
+msgstr "Artikel-Navigation"
+
+#: functions.php:621
+msgid "Sidebar Posts"
+msgstr "Seitenleiste für Beiträge"
+
+#: functions.php:612
+msgid "Sidebar Main"
+msgstr "Haupt-Seitenleiste"
+
+#: functions.php:603
+msgid "Sidebar Home"
+msgstr "Seitenleiste für Startseite\t"
+
+#: functions.php:461
+msgid "Body Text"
+msgstr "Grundschrift"
+
+#: functions.php:441
+msgid "Headings, Post/Page Title"
+msgstr "Überschriften, Beitrags-/Seitentitel"
+
+#: functions.php:421
+msgid "Nav, Widget, Link Button, Footer:"
+msgstr "Navigation, Widget, Link-Buttom, Fußzeile:"
+
+#: functions.php:401
+msgid "Site Title (Logo) Font:"
+msgstr "Schrift für den Website-Titel:"
+
+#: functions.php:390
+msgid "Choose Google fonts for Newswire"
+msgstr "Google-Fonts für Newswire auswählen"
+
+#: functions.php:388
+msgid "Fonts"
+msgstr "Schriftart"
+
+#: functions.php:380
+msgid "Autoplay Speed in Seconds"
+msgstr "Abspielgeschwindigkeit in Sekunden"
+
+#: functions.php:363
+msgid "Select Effect:"
+msgstr "Effekt auswählen:"
+
+#: functions.php:352
+msgid "Adjust the behavior of the image slider."
+msgstr "Verhalten des Bilder-Sliders anpassen."
+
+#: functions.php:350
+msgid "Slider Options"
+msgstr "Slider-Optionen"
+
+#: functions.php:340
+msgid "Enter your email address"
+msgstr "Gib deine E-Mail-Adresse ein."
+
+#: functions.php:329
+msgid "Enter your RSS url"
+msgstr "Gib deine RSS-URL ein"
+
+#: functions.php:318
+msgid "Enter your Yelp url"
+msgstr "Gib deine Yelp-URL ein"
+
+#: functions.php:307
+msgid "Enter your Vimeo url"
+msgstr "Gib deine Vimeo-URL ein"
+
+#: functions.php:296
+msgid "Enter your Flickr url"
+msgstr "Gib deine Flickr-URL ein"
+
+#: functions.php:285
+msgid "Enter your Instagram url"
+msgstr "Gib deine Instagram-URL ein"
+
+#: functions.php:274
+msgid "Enter your Tumblr url"
+msgstr "Gib deine Tumblr-URL ein"
+
+#: functions.php:263
+msgid "Enter your Youtube url"
+msgstr "Gib deine YouTube-URL ein"
+
+#: functions.php:252
+msgid "Enter your Linkedin url"
+msgstr "Gib deine LinkedIn-URL ein"
+
+#: functions.php:241
+msgid "Enter your Pinterest url"
+msgstr "Gib deine Pinterest-URL ein"
+
+#: functions.php:230
+msgid "Enter your Google+ url"
+msgstr "Gib deine Google+-URL ein"
+
+#: functions.php:219
+msgid "Enter your Twitter url"
+msgstr "Gib deine Twitter-URL ein"
+
+#: functions.php:208
+msgid "Enter your Facebook url"
+msgstr "Gib deine Facebook-URL ein"
+
+#: functions.php:200
+msgid "Optional social media buttons in the header"
+msgstr "Optionale Social-Media-Buttons in der Kopfzeile"
+
+#: functions.php:198
+msgid "Social Media Icons"
+msgstr "Soziale Netzwerke"
+
+#: functions.php:189
+msgid "Navigation Bar Background Color"
+msgstr "Hintergrundfarbe für die Navigationsleiste"
+
+#: functions.php:176
+msgid "Theme Color Scheme"
+msgstr "Farbschema des Themes"
+
+#: functions.php:163
+msgid "Site Title Color"
+msgstr "Farbe für den Website-Titel"
+
+#: functions.php:150
+msgid "Choose your logo (ideal width is 100-300px and ideal height is 40-100px)"
+msgstr "Wähle dein Logo (die ideale Breite ist 100 bis 300px und die ideale Höhe ist 40 bis 100px)"
+
+#: functions.php:142
+msgid "Upload a logo to replace the default site name in the header"
+msgstr "Lade ein Logo hoch und ersetze damit den Website-Namen im Seitenkopf"
+
+#: functions.php:140
+msgid "Site Logo"
+msgstr "Website-Logo"
+
+#: functions.php:109 functions.php:113
+msgid "Page "
+msgstr "Seite"
+
+#: functions.php:103
+msgid "Author"
+msgstr "Autor"
+
+#: functions.php:102
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: functions.php:101
+msgid "Category"
+msgstr "Kategorie"
+
+#: functions.php:34
+msgid "Main Navigation Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:33
+msgid "Top Navigation Menu"
+msgstr "Kopfzeilen-Menu"
+
+#. #-#-#-#-#  the-newswire.pot (The Newswire 1.2)  #-#-#-#-#
+#. Author of the plugin/theme
+#: footer.php:14
+msgid "WP Dev Shed"
+msgstr "WP Dev Shed"
+
+#. #-#-#-#-#  the-newswire.pot (The Newswire 1.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:14
+msgid "http://wpdevshed.com/"
+msgstr "http://wpdevshed.com/"
+
+#: footer.php:14
+msgid " and "
+msgstr " und "
+
+#: footer.php:13
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:13
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantic Personal Publishing Platform"
+
+#: footer.php:13
+msgid "http://wordpress.org/"
+msgstr "http://de.wordpress.org/"
+
+#: footer.php:13
+msgid "- Powered by "
+msgstr "- Erstellt mit"
+
+#: footer.php:11
+msgid "&copy; "
+msgstr "&copy; "
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39
+msgid "<span class=\"tag-meta\">Tagged %s</span>"
+msgstr "<span class=\"tag-meta\">Schlagwörter %s</span>"
+
+#: content-gallery.php:110 content-page.php:11 content-single.php:42
+#: image.php:24 image.php:92
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: content-gallery.php:106
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: content-gallery.php:106
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: content-gallery.php:106
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: content-gallery.php:99
+msgid "Tagged %1$s"
+msgstr "Markiert mit %1$s"
+
+#: content-gallery.php:88
+msgid "Posted in %1$s"
+msgstr "Veröffentlicht in %1$s"
+
+#: content-gallery.php:63
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Diese Galerie enthält <a %1$s>%2$s Foto</a>."
+msgstr[1] "Diese Galerie enthält <a %1$s>%2$s Fotos</a>."
+
+#: content-aside.php:35 content-audio.php:32 content-chat.php:31
+#: content-gallery.php:121 content-image.php:41 content-link.php:31
+#: content-quote.php:35 content-single.php:24 content-status.php:35
+#: content-video.php:27 content.php:43 functions.php:687
+msgid "%s"
+msgstr "%s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:31 content-audio.php:28 content-chat.php:27
+#: content-gallery.php:84 content-gallery.php:95 content-gallery.php:117
+#: content-image.php:37 content-link.php:27 content-quote.php:31
+#: content-single.php:20 content-status.php:31 content-video.php:23
+#: content.php:39
+msgid ", "
+msgstr ", "
+
+#: content-aside.php:18 content-audio.php:18 content-chat.php:18
+#: content-gallery.php:71 content-image.php:27 content-link.php:18
+#: content-page.php:9 content-quote.php:18 content-single.php:14
+#: content-status.php:18 content-video.php:13 image.php:78
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-aside.php:17 content-audio.php:17 content-chat.php:17
+#: content-gallery.php:58 content-image.php:26 content-link.php:17
+#: content-quote.php:17 content-status.php:17 content-video.php:12
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:4 content-audio.php:4 content-chat.php:4
+#: content-gallery.php:5 content-gallery.php:10 content-gallery.php:64
+#: content-image.php:4 content-link.php:4 content-quote.php:4
+#: content-status.php:4 content-video.php:4 content.php:5 index.php:42
+msgid "Permalink to %s"
+msgstr "Permanentlink zu %s"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:40
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:39
+msgid "Comment navigation"
+msgstr "Kommentar-Navigation"
+
+#: comments.php:24
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Kommentar auf &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commenti su &ldquo;%2$s&rdquo;"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dieser Beitrag ist passwortgeschützt. Um Kommentare anschauen zu können, musst du das Passwort eingeben."
+
+#: category.php:10
+msgid "Category: %s"
+msgstr "Kategorie: %s"
+
+#: author.php:20
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:58 author.php:62 category.php:50 home-no-slider.php:96
+#: index.php:129 tag.php:56
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht finden konnten, wonach du gesucht hast. Möglicherweise hilft die Suchfunktion."
+
+#: archive.php:54 author.php:58 category.php:46 home-no-slider.php:92
+#: index.php:125 search.php:38 tag.php:52
+msgid "Nothing Found"
+msgstr "Es konnte nichts gefunden werden."
+
+#: archive.php:19 functions.php:104 home-no-slider.php:71 sidebar-home.php:42
+#: sidebar-posts.php:42 sidebar.php:42
+msgid "Archives"
+msgstr "Archive"
+
+#: archive.php:17
+msgid "Yearly Archives: %s"
+msgstr "Archiv für das Jahr %s"
+
+#: archive.php:15
+msgid "Monthly Archives: %s"
+msgstr "Archiv für den Monat %s"
+
+#: archive.php:13
+msgid "Daily Archives: %s"
+msgstr "Archiv für den Tag %s"
+
+#. translators: %1$s: smilie
+#: 404.php:27 search.php:58
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Versuchs mit einem Blick in die monatlichen Archive. %1$s"
+
+#: 404.php:19 search.php:50
+msgid "Most Used Categories"
+msgstr "Oft verwendete Kategorien"
+
+#: 404.php:13
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Entschuldige bitte, aber das was du gesucht hast, konnte nicht gefunden werden. Nutze doch die Suchfunktion oder ein paar der weiter unten angebotenen Möglichkeiten, um das Gewünschte zu finden."
+
+#: 404.php:9
+msgid "Error 404 - Page Not Found"
+msgstr "Diese Seite wurde nicht gefunden."
+
+#. Theme URI of the plugin/theme
+msgid "http://wpdevshed.com/themes/the-newswire/"
+msgstr "http://wpdevshed.com/themes/the-newswire/"
